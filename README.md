@@ -1,0 +1,2 @@
+# wine-analysis
+This project aims to analyse the raw data of a Wine based various fields in United states. As Wine is one of the most used food items in US, I analysed various sectors which based on wine like Price of Wine Bottle ,Rating of particular Wine Brand given by thousands of tasters, Type of Grapes used to make Wine, data of various Wineries and many more. This makes the user to easily understand about various details regarding wine and its production.
